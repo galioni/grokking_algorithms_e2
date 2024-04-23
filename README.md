@@ -1,1 +1,1 @@
-# Solutions for book Grokking ALgorithms Second Edition
+# Solutions for book Grokking Algorithms Second Edition
